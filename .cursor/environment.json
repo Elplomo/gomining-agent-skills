@@ -1,0 +1,4 @@
+{
+  "name": "GoMining Agent Skills",
+  "install": "node .cursor/validate-skills.mjs"
+}
